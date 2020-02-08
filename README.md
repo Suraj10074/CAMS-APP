@@ -1,68 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project CAMS: College Attendance Managment System
+#### About CAMS is Software Student administration management system is the most integral and essential module of College ERP. Details of students, faculty and staff with other details of certificates, documents, sections, enrolment numbers are maintained on the software. To list few operations, the ERP automates: Creation of admitted student record Allotment of roll number, section and subjects Updation of student dues and fines Issuance of certificates Scholarship and fee concession activity
 
-## Available Scripts
+#### CAMS is built on cutting edge modern technology and designed to help Colleges and Guardians to deal with problems of truancy/absenteeism. CAMS is built on robust client-server architecture and supports multiple simultaneous clients which enable admin staff to perform their function with utmost ease..
 
-In the project directory, you can run:
+### Tools: React, React-DOM, React-Router-Dom, Bootstarp.
 
-### `npm start`
+### Home
+![Screenshot from 2020-02-08 11-18-44](https://user-images.githubusercontent.com/53760280/74080048-e0afee80-4a65-11ea-833c-d77722427a1e.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Dashboard
+![Dashborad from 2020-02-08 11-28-05](https://user-images.githubusercontent.com/53760280/74080288-849a9980-4a68-11ea-905b-1e6f50d89f3a.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+###
+![Screenshot from 2020-02-08 11-33-19](https://user-images.githubusercontent.com/53760280/74080300-a6941c00-4a68-11ea-8a72-8cd1cbccffbb.png)
 
-### `npm test`
+![Screenshot from 2020-02-08 11-32-54](https://user-images.githubusercontent.com/53760280/74080295-9f6d0e00-4a68-11ea-8f34-ee4ddb8449ce.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot from 2020-02-08 11-33-08](https://user-images.githubusercontent.com/53760280/74080298-a09e3b00-4a68-11ea-8a5e-c79cb02f15bb.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot from 2020-02-08 11-34-32](https://user-images.githubusercontent.com/53760280/74080303-aac03980-4a68-11ea-89b6-9c245bb265df.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Screenshot from 2020-02-08 11-34-47](https://user-images.githubusercontent.com/53760280/74080308-b90e5580-4a68-11ea-8ade-a39841329607.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot from 2020-02-08 11-35-33](https://user-images.githubusercontent.com/53760280/74080309-ba3f8280-4a68-11ea-92ad-dc9f42a6e98b.png)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Screenshot from 2020-02-08 11-35-42](https://user-images.githubusercontent.com/53760280/74080310-bc094600-4a68-11ea-87c1-4c1cc81f9f5e.png)
