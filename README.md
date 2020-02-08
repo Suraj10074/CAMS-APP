@@ -8,7 +8,11 @@
 ![Screenshot from 2020-02-08 11-18-44](https://user-images.githubusercontent.com/53760280/74080048-e0afee80-4a65-11ea-833c-d77722427a1e.png)
 
 ### Dashborad
-![Dashborad from 2020-02-08 11-28-05](https://user-images.githubusercontent.com/53760280/74080288-849a9980-4a68-11ea-905b-1e6f50d89f3a.png)
+![dashboard from 2020-02-08 17-30-31](https://user-images.githubusercontent.com/53760280/74084825-e7a42480-4a98-11ea-9b69-62c37181a5d5.png)
+
+![Screenshot from 2020-02-08 17-22-46](https://user-images.githubusercontent.com/53760280/74084828-eb37ab80-4a98-11ea-8f92-c3e9a8693873.png)
+
+![Screenshot from 2020-02-08 17-23-09](https://user-images.githubusercontent.com/53760280/74084829-ed016f00-4a98-11ea-911d-cdf9439af98b.png)
 
 ### Notification
 ![Screenshot from 2020-02-08 11-32-54](https://user-images.githubusercontent.com/53760280/74080295-9f6d0e00-4a68-11ea-8f34-ee4ddb8449ce.png)
