@@ -1,15 +1,11 @@
+import FliterSearch from './AddFliter';
 import React, { Component } from 'react';
 
 let courses = [
   'Computer Scinece',
   'Information And Technology',
-  'Mechanical Engineering'
-];
-
-const Student = [
-  'Suraj',
-  'Arpit',
-  'Sytam'
+  'Mechanical Engineering',
+  'AutoMobiles Engineering',
 ];
 
 class Dashboard extends React.Component {
@@ -18,7 +14,6 @@ class Dashboard extends React.Component {
     
     this.state = {
       search: [],
-      name: []
     }
   }
 
@@ -30,38 +25,23 @@ class Dashboard extends React.Component {
         option.match(searchPattern)
       );
     } 
-    
-    else if(this.state.name.length){
-    const namePattern = new RegExp(this.state.name.map(term => `(?=.*${term})`).join(''), 'i');
-      options = Student.filter(option => 
-        option.match(namePattern)
-      );
-    } 
     else {
       options = courses;
     }
   
     return (
-      <div className='display container mt-2 p-5 bg-warning'>
-      <div className="List mt-2 p-5 offset-2">
-        <h1 > Courses</h1>
-        <input type="text" onChange={(e) => this.setState({search: e.target.value.split(' ')})}/>
-        <ul>
-            {options.map((option, i) => 
-              <li key={option+i}>{option}</li>
-            )}
-        </ul>
-      </div>
-      <div className="List mt-2 p-5 offset-2">
-        <h1 > Student</h1>
-        <input type="text" onChange={(e) => this.setState({name: e.target.value.split(' ')})}/>
-        <ul>
-            {options.map((option, i) => 
-              <li key={option+i}>{option}</li>
-            )}
-        </ul>
-      </div>
-      </div>
+    <div className='display container mt-2 p-5 bg-warning'>
+        <div className="List mt-2 p-5 offset-0">
+            <h1 > Courses</h1>
+            <input className="text-center" type="text" placeHolder=" Search Courses" onChange={(e) => this.setState({search: e.target.value.split(' ')})}/>
+            <ul>
+                {options.map((option, i) => 
+                <p key={option+i}>{option}</p>
+                )}
+            </ul>
+        </div>
+        <FliterSearch/>
+    </div>
     )
   }
 }
