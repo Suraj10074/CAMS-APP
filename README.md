@@ -5,13 +5,10 @@
 
 ### Tools: React, React-DOM, React-Router-Dom, Bootstarp.
 
-### Home
 ![Screenshot from 2020-02-08 11-18-44](https://user-images.githubusercontent.com/53760280/74080048-e0afee80-4a65-11ea-833c-d77722427a1e.png)
 
-### Dashboard
 ![Dashborad from 2020-02-08 11-28-05](https://user-images.githubusercontent.com/53760280/74080288-849a9980-4a68-11ea-905b-1e6f50d89f3a.png)
 
-###
 ![Screenshot from 2020-02-08 11-33-19](https://user-images.githubusercontent.com/53760280/74080300-a6941c00-4a68-11ea-8a72-8cd1cbccffbb.png)
 
 ![Screenshot from 2020-02-08 11-32-54](https://user-images.githubusercontent.com/53760280/74080295-9f6d0e00-4a68-11ea-8f34-ee4ddb8449ce.png)
