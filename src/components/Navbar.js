@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="bg-warning">
       <nav className="nav fixed-top mt-3 bg-dark" style={{height:"70px"}}>
         <Link className="nav-item nav-link text-light font-weight-bolder" to="/"> <h1 style={{ marginLeft: "20px", marginRight: "10px",fontSize: "30px",marginTop:"-10px" }}><span><img src="212-2123413_simpson-university-logo-hd-png-download.png" style={{height:"70px",width:"100px"}}></img>CAMS</span></h1></Link>
-        <Link className="nav-item nav-link text-white mt-3" style={{ fontSize: "15px" }} to="/Dashboard">Dashborad</Link>
+        <Link className="nav-item nav-link text-white mt-3" style={{ fontSize: "15px" }} to="/Dashboard">Dashboard</Link>
         <Link className="nav-item nav-link text-white mt-3" style={{ fontSize: "15px" }} to="/taskToDo">Notification</Link>
         <Link className="nav-item nav-link text-white mt-3" style={{ fontSize: "15px" }} to="/Profile">Attendance & Profile Details</Link>
         <Link className="nav-item nav-link text-white mt-3" style={{ fontSize: "15px" }} to="/contact">CONTACT</Link>
